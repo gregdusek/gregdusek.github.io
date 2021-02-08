@@ -1,0 +1,24 @@
+.contacts-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    letter-spacing: 4px;
+    position: relative;
+    color: white;
+    margin: 0 auto;
+    width: 100%;
+}
+.contact-heading {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+}
+
+.contact-text {
+    color: white;
+    margin: 0 auto;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+

@@ -1,0 +1,60 @@
+.xp-container{
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 4px;
+    position: relative;
+    width: 100%;
+    color: white;
+}
+
+.xp-container h1 {
+    margin-top: 5rem;
+
+}
+
+.xp-heading {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 3%;
+    color: white;
+}
+
+.box{
+    align-self: center;
+}
+
+.resume {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    padding: 25px;
+    width: 30%;
+    background-color: rgb(8,45,80);
+    border-radius: 15px;
+}
+
+.linkedin {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    padding: 25px;
+    width: 30%;
+    background-color: rgb(8,45,80);
+    color: white;
+    border-radius: 15px;
+}
+
+
+.github {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    padding: 25px;
+    width: 30%;
+    background-color: rgb(8,45,80);
+    border-radius: 15px;
+}
+

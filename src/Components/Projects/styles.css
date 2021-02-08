@@ -1,0 +1,45 @@
+.projects-container {
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 4px;
+    position: relative;
+    width: 100%;
+}
+.project-heading {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10rem;
+    color: white;
+}
+
+.project-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+}
+.card-card {
+    width: 20rem;
+    min-width: 2rem;
+    max-width: 25rem;
+    margin: 5rem;
+}
+.card-img {
+    width: 100%;
+    height: auto
+
+}
+.card-body {
+    height: 10rem;
+    padding: 25px;
+    background-color: white;
+}
+.card-text{
+    text-align: left; 
+    text-justify: inter-word;
+    line-height: 24px;
+    border-bottom: darkgray;
+}
+.link {
+    letter-spacing: normal;
+}
