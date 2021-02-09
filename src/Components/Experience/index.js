@@ -27,7 +27,7 @@ const Experience = () => {
             
             <div className="linkedin">
                 <div className="box">
-                    <a href="http://linkedin.com/in/gregdusek" target='blank'>
+                    <a href="https://www.linkedin.com/in/greg-dusek-50559759/" target='blank'>
                         <img src="https://res.cloudinary.com/gregdusek/image/upload/c_thumb,w_140,g_face/v1612823281/Hopper%20Fly%20Fishing/linkedin-original_iufjzb.svg" alt=""/>
                     </a>
                 </div>
