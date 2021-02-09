@@ -1,15 +1,12 @@
 import './App.css';
-import { Navbar, Nav } from 'react-bootstrap';
-import {Route, Link, Switch} from 'react-router-dom';
+// import { Navbar, Nav } from 'react-bootstrap';
+import {Route, Switch} from 'react-router-dom';
 import Home from './Components/Home';
 import Skills from './Components/Skills';
 import Projects from './Components/Projects';
 import Experience from './Components/Experience';
 import Contact from './Components/Contact';
 import Navigate from './Components/Navbar';
-
-
-
 
 function App() {  
   return (
